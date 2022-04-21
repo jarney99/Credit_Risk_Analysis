@@ -11,3 +11,9 @@ We were tasked with analyzing credit card risk. We used statistical analysis and
 
 <img width="387" alt="Screen Shot 2022-04-21 at 2 49 06 PM" src="https://user-images.githubusercontent.com/95194554/164541283-9505de3a-6bb4-42f7-8b30-2ba43b62e22f.png">
 * In the code above we used the clustercentroids model to see that the balanced accuracy score is slightly lower at about 54%.
+
+<img width="595" alt="Screen Shot 2022-04-21 at 2 51 30 PM" src="https://user-images.githubusercontent.com/95194554/164541647-f39c022f-bb2b-4a16-912f-f5eb82b3e8e4.png">
+* Above we use BalancedRandomForestClassifier to get a higher balanced accuracy score of about 79%.
+
+<img width="385" alt="Screen Shot 2022-04-21 at 2 52 37 PM" src="https://user-images.githubusercontent.com/95194554/164541819-2da56c78-6c83-47f0-843f-850aaabde104.png">
+* For our last technique we use the easyensembleclassifier to get our highest balanced accuracy score of about 93%.
