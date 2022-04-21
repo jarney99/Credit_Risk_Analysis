@@ -8,3 +8,6 @@ We were tasked with analyzing credit card risk. We used statistical analysis and
 
 <img width="435" alt="Screen Shot 2022-04-21 at 2 47 38 PM" src="https://user-images.githubusercontent.com/95194554/164541092-4c0a0ca1-a8d5-47a7-beed-938aa3a0856f.png">
 * Above we use the smote technique and see that our balanced accuracy score is about 65%.
+
+<img width="387" alt="Screen Shot 2022-04-21 at 2 49 06 PM" src="https://user-images.githubusercontent.com/95194554/164541283-9505de3a-6bb4-42f7-8b30-2ba43b62e22f.png">
+* In the code above we used the clustercentroids model to see that the balanced accuracy score is slightly lower at about 54%.
