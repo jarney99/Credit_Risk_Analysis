@@ -5,3 +5,6 @@ We were tasked with analyzing credit card risk. We used statistical analysis and
 ## Results
 <img width="473" alt="Screen Shot 2022-04-21 at 2 45 11 PM" src="https://user-images.githubusercontent.com/95194554/164540706-410792fc-eea3-4217-9693-15208764126a.png">
 * In the code above we are seeing the balanced accuracy score using randomoversampling. We can see that the balanced accuracy score is about 64%.
+
+<img width="435" alt="Screen Shot 2022-04-21 at 2 47 38 PM" src="https://user-images.githubusercontent.com/95194554/164541092-4c0a0ca1-a8d5-47a7-beed-938aa3a0856f.png">
+* Above we use the smote technique and see that our balanced accuracy score is about 65%.
