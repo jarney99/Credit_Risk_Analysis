@@ -17,3 +17,6 @@ We were tasked with analyzing credit card risk. We used statistical analysis and
 
 <img width="385" alt="Screen Shot 2022-04-21 at 2 52 37 PM" src="https://user-images.githubusercontent.com/95194554/164541819-2da56c78-6c83-47f0-843f-850aaabde104.png">
 * For our last technique we use the easyensembleclassifier to get our highest balanced accuracy score of about 93%.
+
+## Summary
+After using all 6 of our machine learning models we can see that all of them would lead to over 50% accuracy, but the clustercentroids model will be the lowest at 54%. And the easyensembleclassifier will get the highest balanced accuracy score of 93%, which is why I would recommend using the easyensembleclassifier.
